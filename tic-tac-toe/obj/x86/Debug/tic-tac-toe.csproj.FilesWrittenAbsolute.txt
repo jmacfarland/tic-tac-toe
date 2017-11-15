@@ -1,0 +1,5 @@
+/home/jamison/Projects/tic-tac-toe/tic-tac-toe/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jamison/Projects/tic-tac-toe/tic-tac-toe/bin/Debug/tic-tac-toe.exe.mdb
+/home/jamison/Projects/tic-tac-toe/tic-tac-toe/bin/Debug/tic-tac-toe.exe
+/home/jamison/Projects/tic-tac-toe/tic-tac-toe/obj/x86/Debug/tic-tac-toe.exe
+/home/jamison/Projects/tic-tac-toe/tic-tac-toe/obj/x86/Debug/tic-tac-toe.exe.mdb
